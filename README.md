@@ -12,7 +12,7 @@
 > |12:10-1:00| English |
 > |1:10-2:00| English |
 > |2:00-2:10| Examen |
-### Guides
+### Miscellaneous
 ***none yet***
 
 ![none yet](https://static.thenounproject.com/png/41104-200.png)
