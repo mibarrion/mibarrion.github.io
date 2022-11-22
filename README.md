@@ -1,5 +1,3 @@
-# **mibarrion.github.io**
-
 
 ## My favorite artists
 ### Green Day
